@@ -1,0 +1,1 @@
+invite = "https://discord.com/api/oauth2/authorize?client_id=913637628266569748&permissions=388160&scope=bot"
